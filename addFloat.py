@@ -1,0 +1,6 @@
+x = float(input("Enter a float : "))
+y = float(input("Enter q float : "))
+z = round(x+y)
+print(f"{z}")
+print(round(5.5))
+# print(f"Sum of {x} + {y} is {x+y}")
